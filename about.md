@@ -12,11 +12,12 @@ I just learned *R markdown* this **week**.
 
 * How to make bullet list  
   + be carefull about spaces  
-  + and how add a image 
+  + and how to make a table
   
 Head1 | Head2
 ----- | ------
 cell1 | cell2
+cell2 | cell2
 
 ## Contact me
 
