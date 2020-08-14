@@ -14,9 +14,9 @@ I just learned *R markdown* this **week**.
   + be carefull about spaces  
   + and how add a image 
   
-Head1|Head2|
-------|-------
-cell1|cell2
+Head1 | Head2
+----- | ------
+cell1 | cell2
 
 ## Contact me
 
