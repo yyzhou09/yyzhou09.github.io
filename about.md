@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Myself
 
-### More Information
+## More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I just learned *R markdown* this **week**. 
 
-### Contact me
+* How to make bullet list  
+  + be carefull about spaces  
+  + and how add a image 
+  
+Head1|Head2|
+------|-------
+cell1|cell2
 
-[email@domain.com](mailto:email@domain.com)
+## Contact me
+
+[yzhou7@ncsu.edu](mailto:yzhou7@ncsu.edu)
