@@ -14,10 +14,10 @@ I just learned *R markdown* this **week**.
   + be carefull about spaces  
   + and how to make a table
   
-Head1 | Head2
------ | ------
-cell1 | cell2
-cell2 | cell2
+Head1 | Head2 | Head3
+----- | ------|--------
+cell1 | cell2 | **ok**
+cell2 | cell2 |`code`
 
 ## Contact me
 
