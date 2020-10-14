@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HW1
+title: Second Project
 ---
 
 what would you do differently?  
