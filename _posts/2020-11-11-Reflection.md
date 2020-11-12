@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HW1
+title: Reflection Blog
 ---
 
 what (if anything) has changed about what you think a data scientist is and what they do
